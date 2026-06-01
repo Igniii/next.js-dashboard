@@ -24,7 +24,7 @@ Abre [http://localhost:3000](http://localhost:3000) en tu navegador.
 
 - **Framework:** Next.js 14+
 - **Estilos:** Tailwind CSS
-- **Base de datos:** (p. ej. PostgreSQL / SQLite)
+- **Base de datos:** PostgreSQL (Supabase)
 - **Autenticación:** NextAuth.js
 
 ## 📁 Estructura del proyecto
